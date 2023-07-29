@@ -1,0 +1,34 @@
+O cliente solicita um sistema para controle de estoque para um mercadinho.
+A ideia é que quando o cliente efetuar o pagamento via codigo de barras, será dada baixa.
+
+1 - preciso controlar a ENTRADA e saída dos produtos
+2 - preciso controlar o dados de cada FORNECEDOR
+3 - preciso controlar as VENDAS
+
+PRODUTO:
+Nome
+Valor
+Quantidade
+Fornecedor
+Quantidade minima de estoque
+Data de Inclusão
+
+FORNECEDOR:
+Nome
+CNPJ
+Celular
+Email
+
+
+
+
+
+
+
+LEGENDAS e INFORMAÇÕES GERAIS:
+MVP: Produto mínimo entregável, advindo da metodologia ágil. A ser homologado com o cliente.
+PENCIL: ferramenta para prototipo de telas para homologação junto ao cliente.
+DDD: Caso de uso de especificações do sistema (cada serviço, cada "agente").
+
+REQUISITOS FUNCIONAIS: Aqueles DIRETAMENTE ligados ao NEGÓCIO.
+REQUISITOS NÃO FUNCIONAIS: Aqueles INDIRETAMENTE ligados ao negócio (acessos de login).
